@@ -9,6 +9,8 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.49",
+    "@vuepress/plugin-pwa": "^2.0.0-beta.49",
     "vue-template-compiler": "^2.7.8",
     "vuepress": "^2.0.0-beta.49"
   }

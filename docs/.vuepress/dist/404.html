@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.49">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#3eaf7c"><title>你好, Vue3 ！</title><meta name="description" content="这是我的第一个 VuePress 站点">
+    <link rel="modulepreload" href="/assets/app.696db247.js"><link rel="modulepreload" href="/assets/404.html.150afd83.js"><link rel="modulepreload" href="/assets/404.html.265028f6.js"><link rel="prefetch" href="/assets/index.html.25f4dbac.js"><link rel="prefetch" href="/assets/config.html.942974e0.js"><link rel="prefetch" href="/assets/index.html.ec5876bf.js"><link rel="prefetch" href="/assets/getting-started.html.b97e3ba8.js"><link rel="prefetch" href="/assets/index.html.2c91cff4.js"><link rel="prefetch" href="/assets/config.html.64898688.js"><link rel="prefetch" href="/assets/index.html.7d4697e4.js"><link rel="prefetch" href="/assets/getting-started.html.11de8371.js"><link rel="prefetch" href="/assets/404.a40042ea.js"><link rel="prefetch" href="/assets/404 2.4afd8882.js"><link rel="prefetch" href="/assets/Layout 2.f73c32ef.js"><link rel="prefetch" href="/assets/Layout.aed76cf1.js"><link rel="prefetch" href="/assets/index.0e8935cb.js">
+    <link rel="stylesheet" href="/assets/style.9cee48a2.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>There&#39;s nothing here.</blockquote><a href="/" class="">Take me home</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.696db247.js" defer></script>
+  </body>
+</html>

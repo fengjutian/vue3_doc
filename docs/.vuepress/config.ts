@@ -50,8 +50,10 @@ export default defineUserConfig({
         text: '组件实例',
         link: '/guide/component.md'
       },
-
-
+      {
+        text: '可复用 & 组合',
+        link: '/guide/assemble.md'
+      }
     ],
   }),
 })

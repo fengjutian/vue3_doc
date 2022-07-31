@@ -31,28 +31,40 @@ export default defineUserConfig({
     ],
     sidebar: [
       {
-        text: '介绍',
+        text: '基础',
         link: '/guide/introduce.md',
-        // children: [
-        //   {
-        //     text: 'github',
-        //     link: 'https://github.com',
-        //     children: [],
-        //   },
-        //   '/foo/bar.md',
-        // ],
-      },
-      {
-        text: '安装',
-        link: '/guide/install.md'
-      },
-      {
-        text: '组件实例',
-        link: '/guide/component.md'
+        children: [
+          {
+            text: '安装',
+            link: '/guide/install.md'
+          },
+          {
+            text: '组件实例',
+            link: '/guide/component.md'
+          },
+          {
+            text: '可复用 & 组合',
+            link: '/guide/assemble.md'
+          },
+          {
+            text: '模板语法',
+            link: '/guide/template.md'
+          }
+        ],
       },
       {
         text: '可复用 & 组合',
-        link: '/guide/assemble.md'
+        link: 'composeMixin.md',
+        children: [
+          {
+            text: '组合式API',
+            link: '/guide/composeAPI.md'
+          },
+          {
+            text: 'Setup',
+            link: '/guide/Setup.md'
+          }
+        ]
       }
     ],
   }),

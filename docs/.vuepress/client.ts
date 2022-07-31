@@ -9,9 +9,6 @@ export default defineClientConfig({
     console.log(app);
     console.log(router);
     console.log(siteData);
-    
-    
-
   },
   setup() {},
   rootComponents: [],

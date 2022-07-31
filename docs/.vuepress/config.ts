@@ -3,7 +3,7 @@ const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
 const { pwaPlugin } = require('@vuepress/plugin-pwa')
 
 export default defineUserConfig({
-  base: '/',
+  base: "/vue3_doc/",
   lang: 'zh-CN',
   title: '你好, Vue3 ！',
   description: '你好, Vue3 ！',

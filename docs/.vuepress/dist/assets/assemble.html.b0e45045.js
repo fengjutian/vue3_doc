@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-64fd064a","path":"/guide/assemble.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1658667557000,"contributors":[{"name":"fengjutian","email":"fjutian@foxmail.com","commits":1}]},"filePathRelative":"guide/assemble.md"}');export{e as data};

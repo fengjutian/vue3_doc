@@ -21,14 +21,13 @@ export default defineUserConfig({
     logo: 'https://vuejs.org/images/logo.png',
     navbar: [
       {
+        text: '文档',
+        link: '/guide/README.md'
+      },
+      {
         text: 'Github',
         link: 'https://github.com/fengjutian/vue3_doc',
       },
-      {
-        text: 'Group',
-        children: ['/group/foo.md', '/group/bar.md'],
-      },
-      '/bar/README.md',
     ],
     sidebar: [
       {
@@ -72,6 +71,10 @@ export default defineUserConfig({
           {
             text: 'Provide/Inject',
             link: '/guide/Provide_Inject.md'
+          },
+          {
+            text: 'Mixin',
+            link: '/guide/Mixin.md'
           }
         ]
       }

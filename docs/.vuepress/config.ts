@@ -68,6 +68,10 @@ export default defineUserConfig({
           {
             text: '生命周期钩子',
             link: '/guide/lifecyclehook.md'
+          },
+          {
+            text: 'Provide/Inject',
+            link: '/guide/Provide_Inject.md'
           }
         ]
       }

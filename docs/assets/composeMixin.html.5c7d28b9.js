@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc00ce84","path":"/guide/composeMixin.html","title":"","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659255656000,"contributors":[{"name":"fengjutian","email":"fjutian@foxmail.com","commits":1}]},"filePathRelative":"guide/composeMixin.md"}');export{e as data};

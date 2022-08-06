@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as o,a as t}from"./app.09cf2aff.js";const n={},_=t("p",null,"config",-1),s=[_];function a(r,l){return c(),o("div",null,s)}var i=e(n,[["render",a],["__file","config.html.vue"]]);export{i as default};

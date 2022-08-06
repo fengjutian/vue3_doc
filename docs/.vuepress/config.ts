@@ -75,6 +75,22 @@ export default defineUserConfig({
           {
             text: 'Mixin',
             link: '/guide/Mixin.md'
+          },
+          {
+            text: '自定义指令',
+            link: '/guide/customerDirective.md'
+          },
+          {
+            text: 'Teleport',
+            link: '/guide/Teleport.md'
+          },
+          {
+            text: '渲染函数',
+            link: '/guide/renderFun.md'
+          },
+          {
+            text: '插件',
+            link: '/guide/plugin.md'
           }
         ]
       }

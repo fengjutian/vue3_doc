@@ -64,6 +64,10 @@ export default defineUserConfig({
           {
             text: 'Setup',
             link: '/guide/Setup.md'
+          },
+          {
+            text: '生命周期钩子',
+            link: '/guide/lifecyclehook.md'
           }
         ]
       }

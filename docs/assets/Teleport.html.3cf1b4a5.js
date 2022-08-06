@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as a,a as e,b as o}from"./app.3a944b9e.js";const c={},s=e("h1",{id:"teleport",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#teleport","aria-hidden":"true"},"#"),o(" Teleport")],-1),_=[s];function l(n,d){return r(),a("div",null,_)}var h=t(c,[["render",l],["__file","Teleport.html.vue"]]);export{h as default};

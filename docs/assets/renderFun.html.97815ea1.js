@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0ad3265c","path":"/guide/renderFun.html","title":"\u6E32\u67D3\u51FD\u6570","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659801814000,"contributors":[{"name":"fengjutian","email":"fjutian@foxmail.com","commits":1}]},"filePathRelative":"guide/renderFun.md"}');export{e as data};

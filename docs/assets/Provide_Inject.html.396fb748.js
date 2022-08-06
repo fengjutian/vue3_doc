@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1a59f6c4","path":"/guide/Provide_Inject.html","title":"Provide / Inject","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659797341000,"contributors":[{"name":"fengjutian","email":"fjutian@foxmail.com","commits":1}]},"filePathRelative":"guide/Provide_Inject.md"}');export{e as data};

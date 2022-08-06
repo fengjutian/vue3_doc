@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e5c639fc","path":"/guide/Teleport.html","title":"Teleport","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659801814000,"contributors":[{"name":"fengjutian","email":"fjutian@foxmail.com","commits":1}]},"filePathRelative":"guide/Teleport.md"}');export{e as data};
